@@ -3,8 +3,6 @@ This is a python simulation of the Optiver Coin Game that they made me play in t
 
 This game was recreated from memory to be as similar as possible to the game that was presented to me.
 
-## Author: Prithvi P Rao
-
 # Game Structure
 The game involves 5 players, you and 4 bots, bidding on the outcome of a coin flip. The returns of the game is based on this rule: The total money bid on the wrong outcome is divided amongst the people who bid on the right outcome in the ratio of their bids.
 
